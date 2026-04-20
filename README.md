@@ -39,4 +39,6 @@ uv run langflow run
 
 Langflow starts at http://127.0.0.1:7860.
 
-That's it! You're ready to build with Langflow! 
+## 📚 Documentation
+
+For detailed documentation and guides, visit the [Langflow official documentation](https://docs.langflow.org).
