@@ -1,6 +1,0 @@
-S.No.   | Name                      | Qualification                         | CGPA | University                                 | Target Role
-1       | Muhammad Usama            | B.S. Computer Science                 | 3.56 | Comsats University Islamabad               | AI/ML Engineer & Full-Stack Developer
-2       | Alishba Ishrat            | Bachelor of Mathematics               | 3.53 | International Islamic University Islamabad | AI Developer
-3       | Munahil Amin              | Bachelor of Electrical Engineering    | 3.0  | Bahria University                          | Electrical Engineer
-4       | Haroon-ur-Rasheed         | BS Electrical Engineering             | 3.61 | International Islamic University           | IP Engineer
-5       | Mahnoor Maalik Goraya     | MS Avionics                           | N/A  | CAE, NUST, RISALPUR                        | Avionics Engineer
