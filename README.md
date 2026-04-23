@@ -10,9 +10,9 @@ Requires Python 3.10–3.13 and [uv](https://docs.astral.sh/uv/getting-started/i
 
 #### Create Environment
 
-**Activate the Conda environment:**
+**Create the Conda environment:**
 ```bash
-conda activate vllm-env
+conda create vllm-env
 ```
 
 **Activate the Conda environment:**
