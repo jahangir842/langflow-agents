@@ -1,5 +1,5 @@
 S.No.| Name                 | Qualification                      | CGPA | University                               
-1    | Muhammad Usama       | B.S. Computer Science              | 3.56 | Comsats University Islamabad               
+1    | Muhammad Usama       | B.S. Computer Science              | 3.56 | Comsats University Islamabad                  
 2    | Alishba Ishrat       | Bachelor of Mathematics            | 3.53 | International Islamic University           
 3    | Munahil Amin         | Bachelor of Electrical Engineering | 3.0  | Bahria University                          
 4    | Haroon-ur-rasheed    | BS Electrical Engineering          | 3.61 | International Islamic University           

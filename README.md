@@ -34,7 +34,7 @@ For more information, see [Install and run the Langflow OSS Python package](http
 
 To start Langflow, run:
 ```shell
-uv run langflow run
+uv run langflow run --host 0.0.0.0
 ```
 
 Langflow starts at http://127.0.0.1:7860.
